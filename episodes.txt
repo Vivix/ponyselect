@@ -1,0 +1,28 @@
+SEASON1 EXAMPLE,6
+Items marked with 6 as weight should never be chosen. And as such act as comments,6
+Friendship is Magic 1 and 2,3
+The Ticket Master,2
+Applebuck Season,0
+Griffon the Brush-Off,5
+Boast Busters,0
+Dragonshy,4
+Look before you sleep,1
+Bridle Gossip,1
+Swarm of the Century,3
+Winter Wrap Up,0
+Call of the Cutie,1
+Fall Weather Friends,1
+Feeling Pinkie Keen,0
+Sonic Rainboom,1
+Stare Master,0
+The Show Stoppers,1
+A dog and pony show,2
+Green isn't your color,1
+Over a Barrel,1
+A bird in the Hoof,4
+The cutie mark Chronicles,3
+Owl's well that ends well,4
+Party of One,0
+Best. Night. Ever.,3
+Example,6
+Original list will replace this list along with pony.s original,6
