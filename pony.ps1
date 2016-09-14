@@ -3,10 +3,10 @@ $content_array = @(get-content listb.txt)
 
 function roll_episode 
 {
-    $episode = $content_array[(get-random -Maximum ($content_array.length))]
-
     while (1) {
-        if ($($episode.split(',')[1] -lt (get-random -Maximum 6))) {
+        $episode = $content_array[(get-random -Maximum ($content_array.length))]
+        echo $episode
+        if ($($episode.split(',')[1] -lt (get-random -Maximum 6 -Minimum 1))) {
             echo $episode.split(',')[0]
             break
         }
