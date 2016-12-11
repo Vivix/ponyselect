@@ -1,121 +1,148 @@
 SEASON1,6
-"Friendship Is Magic part 1",4
-"Friendship Is Magic part 2",6
-"The Ticket Master",3
-"Applebuck Season",1
-"Griffon the Brush-Off",3
-"Boast Busters",1
-"Dragonshy",3
-"Look Before You Sleep",1
-"Bridle Gossip",1
-"Swarm of the Century",1
-"Winter Wrap Up",1
-"Call of the Cutie",1
-"Fall Weather Friends",1
-"Suited for Success",1
-"Feeling Pinkie Keen",1
-"Sonic Rainboom",1
-"Stare Master",1
-"The Show Stoppers",1
-"A Dog and Pony Show",1
-"Green Isn't Your Color",1
-"Over a Barrel",1
-"A Bird in the Hoof",1
-"The Cutie Mark Chronicles",1
-"Owl's Well That Ends Well",3
-"Party of One",0
-"The Best Night Ever",1
+1 01 "Friendship Is Magic part 1",4
+1 02 "Friendship Is Magic part 2",6
+1 03 "The Ticket Master",3
+1 04 "Applebuck Season",1
+1 05 "Griffon the Brush-Off",3
+1 06 "Boast Busters",1
+1 07 "Dragonshy",3
+1 08 "Look Before You Sleep",1
+1 09 "Bridle Gossip",1
+1 10 "Swarm of the Century",1
+1 11 "Winter Wrap Up",1
+1 12 "Call of the Cutie",1
+1 13 "Fall Weather Friends",1
+1 14 "Suited for Success",1
+1 15 "Feeling Pinkie Keen",1
+1 16 "Sonic Rainboom",1
+1 17 "Stare Master",1
+1 18 "The Show Stoppers",1
+1 19 "A Dog and Pony Show",1
+1 20 "Green Isn't Your Color",1
+1 21 "Over a Barrel",1
+1 22 "A Bird in the Hoof",1
+1 23 "The Cutie Mark Chronicles",1
+1 24 "Owl's Well That Ends Well",3
+1 25 "Party of One",0
+1 26 "The Best Night Ever",1
 SEASON2,6
-"The Return of Harmony Part 1",3
-"The Return of Harmony Part 2",6
-"Lesson Zero",1
-"Luna Eclipsed",0
-"Sisterhooves Social",1
-"The Cutie Pox",4
-"May the Best Pet Win!",1
-"The Mysterious Mare Do Well",1
-"Sweet and Elite",1
-"Secret of My Excess",1
-"Hearth's Warming Eve",1
-"Family Appreciation Day",2
-"Baby Cakes",3
-"The Last Roundup",1
-"The Super Speedy Cider Squeezy 6000",3
-"Read It and Weep",1
-"Hearts and Hooves Day",1
-"A Friend in Deed",1
-"Putting Your Hoof Down",1
-"It's About Time",1
-"Dragon Quest",1
-"Hurricane Fluttershy",1
-"Ponyville Confidential",1
-"MMMystery on the Friendship Express",3
-"A Canterlot Wedding - Part 1",2
-"A Canterlot Wedding - Part 2",6
+2 01 "The Return of Harmony Part 1",3
+2 02 "The Return of Harmony Part 2",6
+2 03 "Lesson Zero",1
+2 04 "Luna Eclipsed",0
+2 05 "Sisterhooves Social",1
+2 06 "The Cutie Pox",4
+2 07 "May the Best Pet Win!",1
+2 08 "The Mysterious Mare Do Well",1
+2 09 "Sweet and Elite",1
+2 10 "Secret of My Excess",1
+2 11 "Hearth's Warming Eve",1
+2 12 "Family Appreciation Day",2
+2 13 "Baby Cakes",3
+2 14 "The Last Roundup",1
+2 15 "The Super Speedy Cider Squeezy 6000",3
+2 16 "Read It and Weep",1
+2 17 "Hearts and Hooves Day",1
+2 18 "A Friend in Deed",1
+2 19 "Putting Your Hoof Down",1
+2 20 "It's About Time",1
+2 21 "Dragon Quest",1
+2 22 "Hurricane Fluttershy",1
+2 23 "Ponyville Confidential",1
+2 24 "MMMystery on the Friendship Express",3
+2 25 "A Canterlot Wedding - Part 1",2
+2 26 "A Canterlot Wedding - Part 2",6
 SEASON3,6
-"The Crystal Empire - Part 1",4
-"The Crystal Empire - Part 2",6
-"Too Many Pinkie Pies",1
-"One Bad Apple",1
-"Magic Duel",1
-"Sleepless in Ponyville",1
-"Wonderbolts Academy",1
-"Apple Family Reunion",3
-"Spike at Your Service",5
-"Keep Calm and Flutter On",1
-"Just for Sidekicks",5
-"Games Ponies Play",1
-"Magical Mystery Cure",4
+3 01 "The Crystal Empire - Part 1",4
+3 02 "The Crystal Empire - Part 2",6
+3 03 "Too Many Pinkie Pies",1
+3 04 "One Bad Apple",1
+3 05 "Magic Duel",1
+3 06 "Sleepless in Ponyville",1
+3 07 "Wonderbolts Academy",1
+3 08 "Apple Family Reunion",3
+3 09 "Spike at Your Service",5
+3 10 "Keep Calm and Flutter On",1
+3 11 "Just for Sidekicks",5
+3 12 "Games Ponies Play",1
+3 13 "Magical Mystery Cure",4
 SEASON4,6
-"Princess Twilight Sparkle - Part 1",3
-"Princess Twilight Sparkle - Part 2",6
-"Castle Mane-ia",2
-"Daring Don't",3
-"Flight to the Finish",1
-"Power Ponies",0
-"Bats!",1
-"Rarity Takes Manehattan",0
-"Pinkie Apple Pie",2
-"Rainbow Falls",1
-"Three's A Crowd",1
-"Pinkie Pride",1
-"Simple Ways",3
-"Filli Vanilli",1
-"Twilight Time",1
-"It Ain't Easy Being Breezies",4
-"Somepony to watch over me",0
-"Maud Pie",0
-"For Whom the Sweetie Belle Tolls",1
-"Leap of Faith",0
-"Testing Testing 1,2,3",1
-"Trade Ya!",0
-"Inspiration Manifestation",0
-"Equestria Games",1
-"Twilight's Kingdom - Part 1",3
-"Twilight's Kingdom - Part 2",6
+4 01 "Princess Twilight Sparkle - Part 1",3
+4 02 "Princess Twilight Sparkle - Part 2",6
+4 03 "Castle Mane-ia",2
+4 04 "Daring Don't",3
+4 05 "Flight to the Finish",1
+4 06 "Power Ponies",0
+4 07 "Bats!",1
+4 08 "Rarity Takes Manehattan",0
+4 09 "Pinkie Apple Pie",2
+4 10 "Rainbow Falls",1
+4 11 "Three's A Crowd",1
+4 12 "Pinkie Pride",1
+4 13 "Simple Ways",3
+4 14 "Filli Vanilli",1
+4 15 "Twilight Time",1
+4 16 "It Ain't Easy Being Breezies",4
+4 17 "Somepony to watch over me",0
+4 18 "Maud Pie",0
+4 19 "For Whom the Sweetie Belle Tolls",1
+4 20 "Leap of Faith",0
+4 21 "Testing Testing 1,2,3",1
+4 22 "Trade Ya!",0
+4 23 "Inspiration Manifestation",0
+4 24 "Equestria Games",1
+4 25 "Twilight's Kingdom - Part 1",3
+4 26 "Twilight's Kingdom - Part 2",6
 SEASON5,6
-"The Cutie Map - Part 1",2
-"The Cutie Map - Part 2",6
-"Castle Sweet Castle",3
-"Bloom & Gloom",2
-"Tanks for the Memories",4
-"Appleoosa's Most Wanted",4
-"Make New Friends but Keep Discord",2
-"The Lost Treasure of Griffonstone",0
-"Slice of Life",3
-"Princess Spike",2
-"Party Pooped",5
-"Amending Fences",0
-"Do Princesses Dream of Magic Sheep?",2
-"Canterlot Boutique",1
-"Rarity Investigates!",0
-"Made in Manehattan",0
-"Brotherhooves Social",1
-"The One Where Pinkie Pie Knows",1
-"Hearthbreakers",1
-"Scare Master",2
-"What About Discord?",3
-"The Hooffields and McColts",4
-"The Mane Attraction",2
-"The Cutie Re-Mark - Part 1",2
-"The Cutie Re-Mark - Part 2",6
+5 01 "The Cutie Map - Part 1",2
+5 02 "The Cutie Map - Part 2",6
+5 03 "Castle Sweet Castle",3
+5 04 "Bloom & Gloom",2
+5 05 "Tanks for the Memories",4
+5 06 "Appleoosa's Most Wanted",4
+5 07 "Make New Friends but Keep Discord",2
+5 08 "The Lost Treasure of Griffonstone",0
+5 09 "Slice of Life",3
+5 10 "Princess Spike",2
+5 11 "Party Pooped",5
+5 12 "Amending Fences",0
+5 13 "Do Princesses Dream of Magic Sheep?",2
+5 14 "Canterlot Boutique",1
+5 15 "Rarity Investigates!",0
+5 16 "Made in Manehattan",0
+5 17 "Brotherhooves Social",1
+5 18 "The One Where Pinkie Pie Knows",1
+5 19 "Hearthbreakers",1
+5 20 "Scare Master",2
+5 21 "What About Discord?",3
+5 22 "The Hooffields and McColts",4
+5 23 "The Mane Attraction",2
+5 24 "The Cutie Re-Mark - Part 1",2
+5 25 "The Cutie Re-Mark - Part 2",6
+SEASON6,6
+6 01 "The Crystalling - Part 1",5
+6 02 "The Crystalling - Part 2",6
+6 03 "The Gift of the Maud Pie",0
+6 04 "On Your Marks",3
+6 05 "Gauntlet of Fire",5
+6 06 "No Second Prances",0
+6 07 "Newbie Dash",3
+6 08 "A Hearth's Warming Tail",0
+6 09 "The Saddle Row Review",0
+6 10 "Applejacks "Day" Off",1
+6 11 "Flutter brutter,4
+6 12 "Spice Up Your Life",3
+6 13 "Stranger Than Fan Fiction",2
+6 14 "The Cart Before the Ponies",3
+6 15 "28 Pranks Later",2
+6 16 "The Times They Are a Changeling",2
+6 17 "Dungeons & Discords",2
+6 18 "Buckball Season",1
+6 19 "The Fault in Our Cutie Marks",4
+6 20 "Viva Las Pegasus",1
+6 21 "Every Little Thing She Does",1
+6 22 "P.P.O.V.",4
+6 23 "Where the Apple Lies",1
+6 24 "Top Bolt",2
+6 25 "To Where and Back Again - Part 1",2
+6 26 "To Where and Back Again - Part 2",6
