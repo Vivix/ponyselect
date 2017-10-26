@@ -6,6 +6,13 @@
 *	16bit x86			unstable
 *	6510				unfinished
 *	mz-700 z80			unfinished
+* agnostic basic  finished
+* commodore basic unfinished
+* forth
+* fortran II
+* cobol
+* sps
+* autocoder
 
 list format:
 
