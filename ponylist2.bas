@@ -5,7 +5,7 @@
 11 ?"| PONYLIST! <3 <3       |"
 15 ?"========================="
 16 REM ** Open the file on a tape, and go for it.
-20 DIM PL$(2,30,1)
+20 DIM PL$(2,200,1)
 30 OPEN 1,1,0 "EPISODES"
 40 FOR X=0 TO 2:  REM SHOWS
 45 FOR Y=0 TO 200:REM EPISODES
