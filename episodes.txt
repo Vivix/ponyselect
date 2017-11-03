@@ -147,3 +147,30 @@ SEASON6,6
 6 24 "Top Bolt",2
 6 25 "To Where and Back Again - Part 1",2
 6 26 "To Where and Back Again - Part 2",6
+SEASON7,6
+7 01 "Celestial Advice",3
+7 02 "All Bottled Up",1
+7 03 "A Flurry of Emotions",4
+7 04 "Rock Solid Friendship",1
+7 05 "Fluttershy Leans In",4
+7 06 "Forever Filly",4
+7 07 "Parental Glideance",2
+7 08 "Hard to Say Anything",2
+7 09 "Honest Apple",5
+7 10 "A Royal Problem",1
+7 11 "Not Asking for Trouble",4
+7 12 "Discordant Harmony",4
+7 13 "The Perfect Pear",1
+7 14 "Fame and Misfortune",3
+7 15 "Triple Thread",3
+7 16 "Campfire Tales",2
+7 17 "To Change a Changeling",3
+7 18 "Daring Done?",2
+7 19 "It Isn't the Mane Thing About You",2
+7 20 "A Health of Information",2
+7 21 "Marks and Recreation",5
+7 22 "Once Upon a Zeppelin",2
+7 23 "Secrets and Pies",1
+7 24 "Uncommon Bond",3
+7 25 "Shadow Play (Part 1),3
+7 26 "Shadow Play (Part 2),6
