@@ -19,4 +19,4 @@ list format:
 > item,weight
 
 item is anything except a , (might hit other sensitive characters in certain languages)
-weight is 0-6, which rank how wanted the item is. 6 being never chosen, and 0 always chosen when picked. The selector will 'roll a dice' against the weight of its selected line, and if it rolls under the number, will display the item and ask wether or not to reroll.
+weight is 0-6, which rank how wanted the item is. 6 being never chosen, and 0 always chosen when picked. The selector will 'roll a dice' against the weight of its selected line, and if it rolls over the number, will display the item and ask wether or not to reroll.
